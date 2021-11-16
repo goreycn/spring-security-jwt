@@ -1,0 +1,8 @@
+url = jdbc:mysql://localhost:3306/demo3?useUnicode=true&characterEncoding=utf8&serverTimezone=Asia/Shanghai
+user = root
+pass = 123456
+
+showSql = true
+formatSql = false
+showParams = true
+sqlLevel = debug
